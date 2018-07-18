@@ -1,0 +1,2 @@
+# luckydapp
+A nOS dapp
